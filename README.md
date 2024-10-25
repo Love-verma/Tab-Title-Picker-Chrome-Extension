@@ -64,11 +64,7 @@ cd TabTitleExtension
 
 ---
 
-## **Preview**
 
-![Popup Screenshot](https://via.placeholder.com/300x200.png?text=Tab+Title+Picker+Popup+Preview)
-
----
 
 ## **Technical Overview**
 
